@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="//FILBTN002/trainees/Duc.Nguyen/JavaWorkSpace/Dependencies-SpringMVC/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="//FILBTN002/trainees/Duc.Nguyen/JavaWorkSpace/Dependencies-SpringMVC/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="//FILBTN002/trainees/Duc.Nguyen/JavaWorkSpace/Dependencies-SpringMVC/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="//FILBTN002/trainees/Duc.Nguyen/JavaWorkSpace/Dependencies-SpringMVC/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="//FILBTN002/trainees/Duc.Nguyen/JavaWorkSpace/Dependencies-SpringMVC/spring-aop-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//FILBTN002/trainees/Duc.Nguyen/JavaWorkSpace/Dependencies-SpringMVC/spring-asm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//FILBTN002/trainees/Duc.Nguyen/JavaWorkSpace/Dependencies-SpringMVC/spring-beans-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//FILBTN002/trainees/Duc.Nguyen/JavaWorkSpace/Dependencies-SpringMVC/spring-context-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//FILBTN002/trainees/Duc.Nguyen/JavaWorkSpace/Dependencies-SpringMVC/spring-context-support-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//FILBTN002/trainees/Duc.Nguyen/JavaWorkSpace/Dependencies-SpringMVC/spring-core-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//FILBTN002/trainees/Duc.Nguyen/JavaWorkSpace/Dependencies-SpringMVC/spring-expression-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//FILBTN002/trainees/Duc.Nguyen/JavaWorkSpace/Dependencies-SpringMVC/spring-web-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//FILBTN002/trainees/Duc.Nguyen/JavaWorkSpace/Dependencies-SpringMVC/spring-webmvc-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
